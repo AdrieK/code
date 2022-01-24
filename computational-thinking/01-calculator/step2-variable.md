@@ -68,7 +68,7 @@ Create a variable called y of type number that starts with the value 0
 Create a variable called sum of type number that starts with the value 0
 ```
 
-Create a new project in Replit, select the language 'Python' and name it '01-calculator' [See Environment page]({{site.baseurl}}/environment). In the text editor (middle part), type in the three lines of the algorithm. Start each line with a hashtag `#`. The hashtag signal a comment: plain English explanation of what you want to do.
+Create a new project in Replit, select the language 'Python' and name it '01-calculator' [See Environment page]({{site.baseurl}}/computational-thinking/environment). In the text editor (middle part), type in the three lines of the algorithm. Start each line with a hashtag `#`. The hashtag signal a comment: plain English explanation of what you want to do.
 
 # Task 2.2 From English to Python
 
